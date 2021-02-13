@@ -1,5 +1,4 @@
-[ 
-  { 
+{ 
     "tarih": "12/02/2021",
     "testsayisi": "129.630",
     "vakasayisi": "7.763",
@@ -15,5 +14,4 @@
     "toplamagirhastasayisi": "1.250",
     "toplamvefatsayisi": "27.284",
     "toplamiyilesensayisi" : "2.461.204"
-   } 
-]
+ } 
