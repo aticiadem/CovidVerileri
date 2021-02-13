@@ -1,19 +1,19 @@
 [
     { 
-        "tarih": "12/02/2021",
-        "testsayisi": "129.630",
-        "vakasayisi": "7.763",
-        "hastasayisi": "667",
-        "vefatsayisi": "97",
-        "iyilesensayisi": "8.108",
+        "tarih": "13/02/2021",
+        "testsayisi": "123.305",
+        "vakasayisi": "7.706",
+        "hastasayisi": "671",
+        "vefatsayisi": "93",
+        "iyilesensayisi": "7215",
         "zaturreorani": "%3.7",
         "yatakdolulukorani": "%47.5",
         "eriskinyogunbakimdolulukorani": "%59.7",
         "ventilatordolulukorani": "%29.5",
-        "toplamtestsayisi": "31.289.306",
-        "toplamvakasayisi": "2.572.190",
-        "toplamagirhastasayisi": "1.250",
-        "toplamvefatsayisi": "27.284",
-        "toplamiyilesensayisi" : "2.461.204"
+        "toplamtestsayisi": "31.412.611",
+        "toplamvakasayisi": "2.579.896",
+        "toplamagirhastasayisi": "1.235",
+        "toplamvefatsayisi": "27.377",
+        "toplamiyilesensayisi" : "2.468.419"
     } 
 ]
